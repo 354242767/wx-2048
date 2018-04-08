@@ -1,8 +1,8 @@
 # 微信2048
 ## 效果图
-![](https://github.com/windlany/2048/blob/master/img/index.png)
-![](https://github.com/windlany/2048/blob/master/img/exp1.png)
-![](https://github.com/windlany/2048/blob/master/img/exp2.png)
+![](https://github.com/354242767/wx-2048/blob/master/img/index.png)
+![](https://github.com/354242767/wx-2048/blob/master/img/exp1.png)
+![](https://github.com/354242767/wx-2048/blob/master/img/exp2.png)
 ## 算法
 该程序主要难度在用户滑动屏幕时值相同的cell合并 
 将空格标为0（我代码中是用的""表示空格），假设棋盘如下：
